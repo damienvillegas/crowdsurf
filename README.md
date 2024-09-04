@@ -44,7 +44,7 @@ Spending the *time* and *money* to see your favorite artist can be a rewarding e
 - Use matrix factorization to create a model
 - Take the trained concert data and use k means clustering to group similar concerts
 - User’s Spotify engagement store calculated from number of unique tracks, new playlists, other data from their account
-- Use clusters to show what the user could also like for the last 3 recommendations based on what other similar users enjoyed4
+- Use clusters to show what the user could also like for the last 3 recommendations based on what other similar users enjoyed
 
 ![image](images/algo.png)
 
