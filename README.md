@@ -62,8 +62,9 @@ Spending the *time* and *money* to see your favorite artist can be a rewarding e
 ## Showcase
 
 Below is a GIF of my our final presentation, which showcases a demo of the CrowdSurf site. Every six seconds, the next screenshot appers.
+You can also view the slides [here](https://docs.google.com/presentation/d/1pLR6xX6Iv9nac4E0i7_OrZberT7WdU5o2ohE6Knynpk/edit#slide=id.p).
 
-![image](images/showcase1.png)
+![Final Presentation](https://github.com/user-attachments/assets/1df23335-fda1-488c-a47d-4fe47522696d)
 
 ## Wishlist
 - Follow friends
